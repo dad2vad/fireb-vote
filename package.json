@@ -3,7 +3,7 @@
   "description": null,
   "version": "0.0.0",
   "dependencies": {
-    "firebase": "4.1.1",
+    "firebase": "10.9.0",
     "react": "15.5.3",
     "react-dom": "15.5.3"
   },
